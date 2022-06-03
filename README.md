@@ -9,7 +9,7 @@ Munyi Mwangi
 This app is a description of services that I offer, the experience I have gathered, qualifications and projects I have been working on individually and in teams, throughout my professional development.
 
 
-Copyright (c) [2019] [munyiwamwangi]
+Copyright (c) [2019] [munyiwamwangi](https://github.com/Munyiwamwangi/munyiwamwangi.github.io)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
