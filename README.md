@@ -2,7 +2,7 @@
 
 ## Author name
 
-Munyi Mwangi Wanjiku
+Munyi Mwangi
 
 ### Description of project
 
