@@ -23,7 +23,7 @@ title: About
 
 ### Contact:
 
-####Interested in talking to us? 
+Interested in talking to us? 
 
 > Call us through: +254 719828205
 
