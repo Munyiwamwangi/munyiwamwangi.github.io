@@ -23,9 +23,7 @@ title: About
 
 ### Contact:
 
-Interested in talking to us? 
+Interested in talking to us? Call us through: +254 719828205
 
-> Call us through: +254 719828205
-
-> Or Send an email to speak to us to understand more on the benefits you can get,
-and also receive a quote for free at *josseymunyi@gmail.com
+Or Send an email to speak to us to understand more about the benefits you can get,
+and also receive a quote for free at: *josseymunyi@gmail.com
