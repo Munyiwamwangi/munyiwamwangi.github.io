@@ -6,7 +6,7 @@ categories: Python
 tags: [Python, intro, certificate]
 ---
 
-## Introduction to Python test
+## Introduction to Python unit testing
 
 This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
 
