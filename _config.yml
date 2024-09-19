@@ -40,7 +40,7 @@ author: Munyi
 #   "Copyright (c) {currentYear} <a href="https://example.com">{munyi}</a>"
 #   "Copyright © 2019-2024"
 #
-copyright: "Unpublished Work (cleft) {currentYear}"
+copyright: "Unpublished Work (cleft) {currentYear} Joe Munyi"
 
 description: >- # this means to ignore newlines until "baseurl:"
   I am a highly experienced problem solver, with a broad and particular set of skills. My excellent work ethic and
