@@ -5,7 +5,7 @@ subtitle: Quick summary
 categories: markdown
 tags: [guide, markdown]
 ---
-## How to quickly understand, and work with Markdown
+### How to quickly understand, and work with Markdown
 
 1. I have received the challenge to build my website primarily using markdown from Tech Expert Academy.
 2. So I followed the steps highlighted in the readme file.
